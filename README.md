@@ -8,27 +8,31 @@ Hiring teams must filter resumes by specific requirements, which can be tedious 
 
 Automating this process using Machine Learning and Natural Language Processing can drastically reduce screening time from days to minutes.
 
-# Introduction
-Resume screening is the process of evaluating candidate qualifications—education, experience, skills—based on resume content. It’s essentially a pattern-matching task: aligning job requirements with candidate profiles. The aim is to determine which applicants should move forward in the hiring pipeline.
 
 # Modules & Libraries
-#  1.Key Modules
+## Key Modules
 KNN (K-Nearest Neighbors): A supervised learning algorithm used for classification based on similarity with the closest training examples.
 
 NLP (Natural Language Processing): Empowers the model to understand and interpret human language from resumes.
 
-# 2.Libraries Used
-NumPy: Efficient handling of arrays and matrices.
+## Libraries Used
+### NumPy: 
+Efficient handling of arrays and matrices.
 
-Pandas: Simplifies data manipulation and analysis.
+### Pandas: 
+Simplifies data manipulation and analysis.
 
-Matplotlib & Seaborn: For high-quality data visualization.
+### Matplotlib & Seaborn: 
+For high-quality data visualization.
 
-SciPy: Scientific computing utilities.
+### SciPy: 
+Scientific computing utilities.
 
-Scikit-learn: Core machine learning library for training and evaluation.
+### Scikit-learn: 
+Core machine learning library for training and evaluation.
 
-NLTK: Toolkit for text preprocessing and language analysis.
+### NLTK: 
+Toolkit for text preprocessing and language analysis.
 
 # Application Functionality
 The screening system evaluates resumes based on the following criteria:
