@@ -1,22 +1,23 @@
 # Resume-Classification-Using-Machine-Learning-Techniques
 This repository showcases a machine learning project designed to automate the resume screening process. The objective is to build a model that evaluates resumes quickly and accurately based on predefined criteria.
-Why Resume Screening?
+
+# Why Resume Screening?
 Manual resume reviews are time-consuming and inefficient, especially for roles that attract hundreds or thousands of applicants.
 
 Hiring teams must filter resumes by specific requirements, which can be tedious and error-prone.
 
 Automating this process using Machine Learning and Natural Language Processing can drastically reduce screening time from days to minutes.
 
-Introduction
+# Introduction
 Resume screening is the process of evaluating candidate qualifications—education, experience, skills—based on resume content. It’s essentially a pattern-matching task: aligning job requirements with candidate profiles. The aim is to determine which applicants should move forward in the hiring pipeline.
 
-Modules & Libraries
-Key Modules
+# Modules & Libraries
+#  1.Key Modules
 KNN (K-Nearest Neighbors): A supervised learning algorithm used for classification based on similarity with the closest training examples.
 
 NLP (Natural Language Processing): Empowers the model to understand and interpret human language from resumes.
 
-Libraries Used
+# 2.Libraries Used
 NumPy: Efficient handling of arrays and matrices.
 
 Pandas: Simplifies data manipulation and analysis.
@@ -29,7 +30,7 @@ Scikit-learn: Core machine learning library for training and evaluation.
 
 NLTK: Toolkit for text preprocessing and language analysis.
 
-Application Functionality
+# Application Functionality
 The screening system evaluates resumes based on the following criteria:
 
 Work Experience
@@ -44,7 +45,7 @@ Job-specific Competencies
 
 These attributes are analyzed to determine candidate suitability.
 
-Tools & Technologies
+# Tools & Technologies
 This project leverages:
 
 Machine Learning
@@ -64,7 +65,7 @@ These tools reduce manual workload and integrate seamlessly with existing recrui
 
 Automation enhances accuracy and speeds up the hiring process significantly.
 
-Usage
+# Usage
 Follow these steps to use the project:
 
 Prepare your dataset of resumes. Preprocess the data using the provided scripts. Train the machine learning model. Use the trained model to screen new resumes. Detailed instructions for each step can be found in the Jupyter notebooks provided in the repository.
